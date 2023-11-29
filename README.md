@@ -30,8 +30,8 @@ This is a web application built using React.js, Tailwind CSS, React Router, and 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/0xOmarAdel/movie-maze.git`
-2. Navigate to the project directory: `cd movie-maze`
+1. Clone the repository: `git clone https://github.com/BMBruce/Movie-Maze.git`
+2. Navigate to the project directory: `cd Movie-Maze`
 3. Install dependencies: `npm install`
 
 ## Configuration
